@@ -6,6 +6,7 @@ The academic network security assessment followed a structured approach to ident
 
 Assessment Workflow
 
+    ```mermaid
 flowchart TD
     A[Define Assessment Scope] --> B[Network Reconnaissance]
     B --> C[Service Enumeration]
@@ -15,7 +16,6 @@ flowchart TD
     F --> G[Recommend Remediation]
 
 Methodology Stages
-
 1. Assessment Scope
 
 Established the authorized lab environment and the objectives of the assessment.
