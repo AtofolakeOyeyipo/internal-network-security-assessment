@@ -8,6 +8,7 @@ Assessment Workflow
 
     ```mermaid
 flowchart TD
+
     A[Define Assessment Scope] --> B[Network Reconnaissance]
     B --> C[Service Enumeration]
     C --> D[Vulnerability Assessment]
