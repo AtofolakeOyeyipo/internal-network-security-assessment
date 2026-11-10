@@ -1,4 +1,4 @@
-# internal-network-security-assessment
+# Internal-network-security-assessment
 Internal Network Security Assessment
 
 Project Overview
