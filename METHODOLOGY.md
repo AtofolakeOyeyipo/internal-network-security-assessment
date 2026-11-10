@@ -5,17 +5,16 @@ Overview
 The academic network security assessment followed a structured approach to identifying and evaluating security weaknesses within a controlled lab environment.
 
 Assessment Workflow
-
-    ```mermaid
+```mermaid
 flowchart TD
-
     A[Define Assessment Scope] --> B[Network Reconnaissance]
     B --> C[Service Enumeration]
     C --> D[Vulnerability Assessment]
     D --> E[Security Risk Evaluation]
     E --> F[Document Findings]
     F --> G[Recommend Remediation]
-
+'''
+    
 Methodology Stages
 1. Assessment Scope
 
